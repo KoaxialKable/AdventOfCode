@@ -1,4 +1,4 @@
-file1 = open('Puzzle02_input.txt', 'r')
+file1 = open('input files/Day02_input.txt', 'r')
 lines = file1.readlines()
 
 # Rock:    A
